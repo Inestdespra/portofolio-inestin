@@ -1,0 +1,31 @@
+ahapan
+
+1. git config --global user.name "Inest"
+
+2.git config --global user.email "despratsni@gmail.com"
+
+3.git init
+
+4.git add.
+
+5.git commit -m "setup awal"
+
+6.git branch -m main
+
+7.git remote add origin copykan link https di github
+
+8.git push-u origin main
+
+onlinekan situ ke github
+
+1.pilih setting
+
+2.pilih pages
+
+3.pada menu branch ubah dari none menjadi main
+
+4.klik save
+
+5.reload
+
+6.link di menu pages
